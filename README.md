@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Henrique
 
  - 👨🏼‍💻 Desenvolvedor WEB 
- - 📚 Estou na graduação de Analise e Desenvolvimento de Sistemas
+ - 📚 Estou na graduação de Análise e Desenvolvimento de Sistemas
  
  
  <div style="display: inline_block"><br>
